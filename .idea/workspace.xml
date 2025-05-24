@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day1.ipynb" afterDir="false" />
+    <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,11 +68,24 @@
       <option name="presentableId" value="Default" />
       <updated>1748007409050</updated>
       <workItem from="1748007410010" duration="7983000" />
-      <workItem from="1748110518053" duration="249000" />
+      <workItem from="1748110518053" duration="2745000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1748112740421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748112740421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
 </project>
