@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
+      <change afterPath="$PROJECT_DIR$/Methods and Functions/Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Methods and Functions/Methods_and_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Methods and Functions/Methods_and_functions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +77,7 @@
       <workItem from="1748115076267" duration="3770000" />
       <workItem from="1748168256454" duration="6304000" />
       <workItem from="1748177731447" duration="12586000" />
-      <workItem from="1748273991617" duration="916000" />
+      <workItem from="1748273991617" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
