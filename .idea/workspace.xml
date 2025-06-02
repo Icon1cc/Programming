@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/Milestone-Project-1/Displaying_Information.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Milestone-Project-1/User_Input.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1748341966605" duration="15228000" />
       <workItem from="1748430631044" duration="11426000" />
       <workItem from="1748618716903" duration="4007000" />
-      <workItem from="1748833422113" duration="877000" />
+      <workItem from="1748833422113" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
