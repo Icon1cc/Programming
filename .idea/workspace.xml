@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/Polymorphism.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/Special_methods.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,7 @@
       <workItem from="1748833422113" duration="6652000" />
       <workItem from="1748920074201" duration="5848000" />
       <workItem from="1748981884877" duration="604000" />
-      <workItem from="1749049113896" duration="7205000" />
+      <workItem from="1749049113896" duration="7668000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
