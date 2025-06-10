@@ -2,13 +2,12 @@
 Write a function that returns the average of numbers in a list
 """
 
-def myfunc(lst):
-    total = 0
-    for num in lst:
-        total =  total + num
-    return total / len(lst)
+def myfunc(mylist):
+    if not mylist:
+        return 0
+    return sum(mylist) / len(mylist)
 
-user_input = input("Enter the numbers in a list separated by comma: ")
-x = [int(i.strip()) for i in user_input.split(',')]
+mylist = input("Please enter the list comma separated: ")
+x = [int(i.strip()) for i in mylist.split(',')]
 result = myfunc(x)
-print(f"The average of the numbers is {result}")
+print(f"The average is: {result}")
