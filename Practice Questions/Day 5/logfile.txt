@@ -1,0 +1,5 @@
+[2025-06-12 19:24:04] User logged in.
+[2025-06-12 19:24:04] Something went wrong.
+[2025-06-12 19:24:44.846392] User logged in.
+[2025-06-12 19:24:44.846658] Something went wrong.
+[2025-06-12 19:24:44.846720] New file inserted
