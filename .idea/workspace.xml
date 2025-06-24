@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring" />
+    <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Quests/Day 2/print n tables for n range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Quests/Day 2/print n tables for n range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Master's Thesis/convert_geojson_to_xodr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master's Thesis/convert_geojson_to_xodr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy Structure/Python Object and Data Structure Basics/Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Python Object and Data Structure Basics/Files.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +40,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.day before n days.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find last digit of a number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of natural numbers.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/icon1c/Desktop/Python Practice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -51,6 +63,8 @@
       <recent name="$PROJECT_DIR$/" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Daily Quests/Day 1" />
+      <recent name="$PROJECT_DIR$/Udemy Structure" />
       <recent name="$PROJECT_DIR$/Python Statements" />
       <recent name="$PROJECT_DIR$/Python Object and Data Structure Basics" />
     </key>
@@ -87,7 +101,14 @@
       <workItem from="1749215955244" duration="476000" />
       <workItem from="1750371359113" duration="39000" />
       <workItem from="1750371401364" duration="62000" />
-      <workItem from="1750422332535" duration="2311000" />
+      <workItem from="1750422332535" duration="4371000" />
+      <workItem from="1750454231031" duration="703000" />
+      <workItem from="1750458435983" duration="186000" />
+      <workItem from="1750478689971" duration="1525000" />
+      <workItem from="1750505283901" duration="11531000" />
+      <workItem from="1750625991171" duration="3443000" />
+      <workItem from="1750678826940" duration="9557000" />
+      <workItem from="1750775233827" duration="3178000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
@@ -106,5 +127,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactoring" />
     <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA_Practice$find_last_digit_of_a_number.coverage" NAME="find last digit of a number Coverage Results" MODIFIED="1750428301218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily Quests" />
+    <SUITE FILE_PATH="coverage/DSA_Practice$day_before_n_days.coverage" NAME="day before n days Coverage Results" MODIFIED="1750428934764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily Quests" />
+    <SUITE FILE_PATH="coverage/DSA_Practice$sum_of_natural_numbers.coverage" NAME="sum of natural numbers Coverage Results" MODIFIED="1750427727506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily Quests" />
   </component>
 </project>

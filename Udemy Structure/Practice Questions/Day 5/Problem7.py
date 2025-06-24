@@ -6,7 +6,7 @@ from datetime import datetime
 
 def write_log(message):
     timestamp = datetime.now()
-    with open("logfile.txt","a") as f:
+    with open("logfile.txt", "a") as f:
         f.write(f"[{timestamp}] {message}\n")
 
 write_log("User logged in.")

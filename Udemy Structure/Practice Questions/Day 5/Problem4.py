@@ -12,7 +12,7 @@ data = {
     "age": age
 }
 
-with open("userdata.json","w") as f:
+with open("userdata.json", "w") as f:
     json.dump(data, f, indent = 4)
 
 print("Data save to JSON")
