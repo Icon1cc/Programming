@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
+      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/GCD or HCF of two numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/LCM of two numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/check for prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Quests/Day 2/print n tables for n range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Quests/Day 2/print n tables for n range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master's Thesis/convert_geojson_to_xodr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Master's Thesis/convert_geojson_to_xodr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Practice Questions/Day 5/Problem7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy Structure/Python Object and Data Structure Basics/Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Structure/Python Object and Data Structure Basics/Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Quests/Day 5/prime factorisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Quests/Day 5/prime factorisation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
       <recent name="$PROJECT_DIR$/" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Daily Quests/Object Oriented Programming/Day 2" />
       <recent name="$PROJECT_DIR$/Daily Quests/Day 1" />
       <recent name="$PROJECT_DIR$/Udemy Structure" />
       <recent name="$PROJECT_DIR$/Python Statements" />
@@ -72,8 +72,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
-        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
       </set>
     </attachedChunks>
   </component>
@@ -109,6 +109,14 @@
       <workItem from="1750625991171" duration="3443000" />
       <workItem from="1750678826940" duration="9557000" />
       <workItem from="1750775233827" duration="3178000" />
+      <workItem from="1751220977865" duration="695000" />
+      <workItem from="1751562577964" duration="12189000" />
+      <workItem from="1751634342226" duration="8268000" />
+      <workItem from="1751663118816" duration="3411000" />
+      <workItem from="1751897074765" duration="8754000" />
+      <workItem from="1751974537034" duration="7230000" />
+      <workItem from="1752496944187" duration="5523000" />
+      <workItem from="1752856950099" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
