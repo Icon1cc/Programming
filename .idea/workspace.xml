@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09180688-8796-4f08-8b03-8e2b9a2a3a35" name="Changes" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/GCD or HCF of two numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/LCM of two numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/Mathematics/check for prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Folder 2/Day_1/List_Statistics_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Quests/Day 5/prime factorisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Quests/Day 5/prime factorisation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +59,18 @@
       <recent name="$PROJECT_DIR$/" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice folder 1" />
       <recent name="$PROJECT_DIR$/Daily Quests/Object Oriented Programming/Day 2" />
       <recent name="$PROJECT_DIR$/Daily Quests/Day 1" />
       <recent name="$PROJECT_DIR$/Udemy Structure" />
       <recent name="$PROJECT_DIR$/Python Statements" />
-      <recent name="$PROJECT_DIR$/Python Object and Data Structure Basics" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
-        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -117,6 +114,8 @@
       <workItem from="1751974537034" duration="7230000" />
       <workItem from="1752496944187" duration="5523000" />
       <workItem from="1752856950099" duration="598000" />
+      <workItem from="1754321953047" duration="3094000" />
+      <workItem from="1754327891486" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring">
       <option name="closed" value="true" />
